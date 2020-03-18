@@ -9,6 +9,7 @@ Department: Computer Science,Athens University of Economics and Business
  **_Input of the Project:_**
 Dataset with 1794 recipes.Each recipe have three columns id , cuisine regionality and its
 ingredients
+
 **_Purpose of the Project:_**
 Implementation of Naive Bayes on the above dataset , predicting cuisine type from recipe
 ingredients
@@ -32,14 +33,14 @@ cuisine)...P(ingredient_n | cuisine)
 
 
 ## Files 
-* [training.json(data used for training)]
-* [NaiveBayes.py(implementation of naive bayes on the above dataset)]
-* [Project]     
+* training.json(data used for training)
+* NaiveBayes.py(implementation of naive bayes on the above dataset)
+* Cooking.pdf(Project)    
 
 # Results 
  - accuracy of Naive Bayes 
    - 0.58
- -accuracy of Naive Bayes with 6-Cross Validation
+ - accuracy of Naive Bayes with 6-Cross Validation
    - 0.55
  - accuracy when predicting a cuisine by chance 
    - 0.05 
@@ -55,10 +56,9 @@ cuisine)...P(ingredient_n | cuisine)
  
  # Training Time and Memory Usage 
  
-   Training time was 3.9460670948028564 seconds
-   Memory usage was 0.595148 MB
-   Peak was 3.107731 MB
-   The project was done in Colab uisng GPU as hardware accelerator.
+   *Training time was 3.9460670948028564 seconds
+   *Memory usage was 0.595148 MB
+   *Peak was 3.107731 MB
+   *The project was done in Colab uisng GPU as hardware accelerator.
 
-# 
  

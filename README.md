@@ -56,9 +56,9 @@ cuisine)...P(ingredient_n | cuisine)
  
  # Training Time and Memory Usage 
  
-   *Training time was 3.9460670948028564 seconds
-   *Memory usage was 0.595148 MB
-   *Peak was 3.107731 MB
-   *The project was done in Colab uisng GPU as hardware accelerator.
+   * Training time was 3.9460670948028564 seconds
+   * Memory usage was 0.595148 MB
+   * Peak was 3.107731 MB
+   * The project was done in Colab uisng GPU as hardware accelerator.
 
  
